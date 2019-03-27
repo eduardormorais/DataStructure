@@ -1,5 +1,4 @@
-# Estrutura de Dados
- *Alguns projetos feitos durante a faculdade.*  
+# Estrutura de Dados 
 
  - #### Árvore Binária de Busca
 
